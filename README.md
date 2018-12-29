@@ -26,11 +26,17 @@ model learnt by the neural network :
 Performances of neural  network with different number of hidden units :
 
 Accuracy for 1 hidden units: 67.5 %
+
 Accuracy for 2 hidden units: 67.25 %
+
 Accuracy for 3 hidden units: 90.75 %
+
 Accuracy for 4 hidden units: 90.5 %
+
 Accuracy for 5 hidden units: 91.25 %
+
 Accuracy for 20 hidden units: 90.5 %
+
 Accuracy for 50 hidden units: 90.25 %
 
 ![alt text](https://github.com/abhi9741/Neural_Networks-Binary_classifier_on_planar_data_from_scratch/blob/master/model%20learnt%20by%20neural%20network%20with%20different%20hidden%20units.png)
